@@ -1,6 +1,6 @@
 package main
 
-import "example/cmd"
+import "github.com/dyammarcano/docker-golang/cmd"
 
 func main() {
 	cmd.Execute()

@@ -1,4 +1,4 @@
-module example
+module github.com/dyammarcano/docker-golang
 
 go 1.22
 
